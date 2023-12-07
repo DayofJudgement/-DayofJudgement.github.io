@@ -1,1 +1,1 @@
-# -DayofJudgement.github.io
+# DayofJudgement.github.io
